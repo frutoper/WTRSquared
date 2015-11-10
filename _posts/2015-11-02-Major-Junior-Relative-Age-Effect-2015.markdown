@@ -83,6 +83,6 @@ To make a similar bar chart follow Mike Bostock's d3 tutorial: [http://bost.ocks
 [http://bost.ocks.org/mike/bar/]: http://bost.ocks.org/mike/bar/
 [http://theqmjhl.ca/draft/2015]: http://theqmjhl.ca/draft/2015
 
-[OHL]:	{{site.basurl}}/_posts/2015-10-28-OHL-Relative-Age-Effect-2015.markdown"
-[WHL]:	{{site.basurl}}/_posts/2015-05-13-WHL-Relative-Age-Effect-2015.markdown"
-[QMJHL]: {{site.basurl}}/_posts/2015-11-01-QMJHL-Relative-Age-Effect-2015.markdown"
+[OHL]:	http://whatsthersquared.com/jekyll/update/2015/10/28/OHL-Relative-Age-Effect-2015.html
+[WHL]:	http://whatsthersquared.com/jekyll/update/2015/05/13/WHL-Relative-Age-Effect-2015.html
+[QMJHL]: http://whatsthersquared.com/jekyll/update/2015/11/01/QMJHL-Relative-Age-Effect-2015.html
