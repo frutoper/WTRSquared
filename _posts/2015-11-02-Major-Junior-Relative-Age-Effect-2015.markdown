@@ -66,7 +66,7 @@ The Realative Age Effect is most apparent when we consider all the leagues toget
 
 707 players were drafted in 2015 (Only players born in 1999 are considered).  If birth month wasn't a factor in whether or not a player is drafted then we would expect each month to have around 59 players. Instead, 121 players are born in January while only 16 players were born in December. 
 
-If month of birth did not have any effect than we would expect the first have of the year to have about the same number of draft picks as the second half.  We observed that 72% of players were born in the first half of the year while only 28% were born in the second half of the year. 
+If month of birth did not have any effect than we would expect the first half of the year to have about the same number of draft picks as the second half.  We observed that 72% of players were born in the first half of the year while only 28% were born in the second half of the year. 
 
 Once again I use a Chi-Squared test to confirm that the results are different than a uniform distribution.  We are able to reject the idea that this pattern happend as a result of random chance.  This chart and statistical test clearly indicate the presents of the Realative Age Effect in Canadian Major Junior Hockey in the 2015 draft.
 
