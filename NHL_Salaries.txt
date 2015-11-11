@@ -11,7 +11,7 @@ permalink: /NHL-Salaries/
   <div id="network_15_16-timeline_15_16"></div>
   <div id="viz_15_16"></div>
 </div>
-source: [NHLnumbers.com](www.nhlnumbers.com)
+source: NHLnumbers.com
 
 
 <script src="{{site.basurl}}/js/NHL_Salary_15_16.js"></script>
