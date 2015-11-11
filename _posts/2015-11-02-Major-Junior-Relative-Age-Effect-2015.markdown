@@ -60,7 +60,7 @@ d3.-tip.n:after {
 
 This is the final post about the Relative Age Effect ([RAE](https://en.wikipedia.org/wiki/Relative_age_effect)) in the three Major Junior hockey leagues for the year 2015.  For more background on the subject review my previous posts on the [WHL](http://whatsthersquared.com/jekyll/update/2015/05/13/WHL-Relative-Age-Effect-2015.html), [OHL](http://whatsthersquared.com/jekyll/update/2015/10/28/OHL-Relative-Age-Effect-2015.html), and [QMJHL](http://whatsthersquared.com/jekyll/update/2015/11/01/QMJHL-Relative-Age-Effect-2015.html).  Here I combine all the leagues to see the effect across all of major junior hockey.
 
-The Realative Age Effect is most apparent when we consider all the leagues together. Consider the bar chart below. Clearly players born early in the year are more likely to be drafted to Canadian Major Junior hockey than players born later in the year. 
+The Realative Age Effect is most apparent when we consider all the leagues together. Consider the bar chart below. The x axis is birth month. The y axis is the number of players drafted in a given month. Clearly players born early in the year are more likely to be drafted than players born later in the year. 
 
 <div id="example" font-size="40px"></div>
 
