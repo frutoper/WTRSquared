@@ -13,11 +13,11 @@ As a result of the above the Hawks are going to look very different next year. B
 
 2014-2015 salaries:
 
-![alt tag](/Png/Blackhawks_treemap_14_15.png "Blackhawks treemap for the 2014-15 Season")
+![alt](/Png/Blackhawks_Treemap_14_15.png "Blackhawks treemap for the 2014-15 Season")
 
 2015-2016 salaries (as of July 12):
 
-![alt tag](/Png/Blackhawks_treemap_15_16.png "Blackhawks treemap for the 2015-16 Season")
+![alt](/Png/Blackhawks_Treemap_15_16.png "Blackhawks treemap for the 2015-16 Season")
 
 Expect the 2015-2016 salary chart to change as players are signed or traded.
 
