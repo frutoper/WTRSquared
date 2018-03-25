@@ -68,7 +68,7 @@ The Realative Age Effect is most apparent when we consider all the leagues toget
 
 If month of birth did not have any effect than we would expect the first half of the year to have about the same number of draft picks as the second half.  We observed that 72% of players were born in the first half of the year while only 28% were born in the second half of the year. 
 
-Once again I use a Chi-Squared test to confirm that the results are different than a uniform distribution.  We are able to reject the idea that this pattern happend as a result of random chance.  This chart and statistical test clearly indicate the presents of the Realative Age Effect in Canadian Major Junior Hockey in the 2015 draft.
+A Chi-Squared test is used to confirm that the results are different than a uniform distribution.  We are able to reject the idea that this pattern happens as a result of random chance.  This chart and statistical test clearly indicate the presents of the Relative Age Effect in Canadian Major Junior Hockey in the 2015 draft.
 
 The sources of this data are the Major Junior draft sites. (QMJHL: [http://theqmjhl.ca/draft/2015], OHL: [http://ohl.rinknetcloud.com/Draft49](http://ohl.rinknetcloud.com/Draft49), WHL: [http://www.whl.ca/draft/2015#round-1](http://www.whl.ca/draft/2015#round-1)).  
 
