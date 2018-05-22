@@ -9,7 +9,7 @@ categories: jekyll update
 
 ---
 
-HockeyFights.com was kind enough to give me have data to in an attempt to create a system to rate hockey fighters. This system is a unique combination of the eye test and a statistic ranking system developed for Chess. The system is called ELO and it is widely used by [FiveThirtyEight.com](https://projects.fivethirtyeight.com/complete-history-of-the-nba/#bulls). 
+HockeyFights.com was kind enough to give me their data to create a system to rate hockey fighters. This system is a unique combination of the eye test and a statistic ranking system developed for Chess. The system is called ELO and it is widely used by [FiveThirtyEight.com](https://projects.fivethirtyeight.com/complete-history-of-the-nba/#bulls). 
 
 Hockey fights are pretty chaotic and don’t have official judges that declare a winner. How do we know who wins a fight? Well, the thousands of fans of [HockeyFights.com](http://www.hockeyfights.com) vote on fights. You can vote that either player won the fight, or that the fight was a tie. I use that information as the input to the ELO rating algorithm.
 
