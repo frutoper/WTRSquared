@@ -5,6 +5,9 @@ date:   2018-05-21 00:23:37
 categories: jekyll update
 ---
 
+<a rel="ELO Graphic">![alt tag](/Png/ggplot_elo_2016_17.png)</a>
+
+---
 
 HockeyFights.com was kind enough to give me have data to in an attempt to create a system to rate hockey fighters. This system is a unique combination of the eye test and a statistic ranking system developed for Chess. The system is called ELO and it is widely used by FiveThirtyEight.com. 
 
@@ -56,7 +59,7 @@ Below is a chart of ELO over the 2016-17 season. Ryan Reaves is highlighted in B
 
 ---
 
-<a href="www.HockeyFights.com/" rel="ELO Graphic">![alt tag](/Png/ggplot_elo_2016_17.png)</a>
+<a rel="ELO Graphic">![alt tag](/Png/ggplot_elo_2016_17.png)</a>
 
 
 
@@ -66,6 +69,7 @@ Below is a chart of ELO over the 2016-17 season. Ryan Reaves is highlighted in B
 Finally, here is a lis of the Worst Fighters at the end of the 2017 season:
 
 ---
+
 
 | Rank – Worst | Fighter                  | Final 2017 ELO Rating |
 |--------------|--------------------------|-----------------------|
