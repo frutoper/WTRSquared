@@ -46,7 +46,13 @@ This system combines the Eye Test of thousands of hockey fans with the statistic
 | 24   | Chris Neil      | 1236                  |
 | 25   | Dylan McIlrath  | 1236                  |
 
+
 One note about the list, you need to fight to increase you rating. So although a guy like Chara might still be one of the toughest guys in the leauge, because he hasn't been fighting he doesn't make the list. 
+
+
+<a href="https://www.HockeyFights.com/" rel="ELO Graphic">![alt tag](/Png/ggplot_elo_2016_17.png)</a>
+
+
 
 Here is a lis of the Worst Fighters at the end of the 2017 season:
 
