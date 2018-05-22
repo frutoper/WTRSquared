@@ -11,7 +11,7 @@ categories: jekyll update
 
 HockeyFights.com was kind enough to give me have data to in an attempt to create a system to rate hockey fighters. This system is a unique combination of the eye test and a statistic ranking system developed for Chess. The system is called ELO and it is widely used by [FiveThirtyEight.com](https://projects.fivethirtyeight.com/complete-history-of-the-nba/#bulls). 
 
-Hockey fights are pretty chaotic and don’t have official judges that declare a winner. How do we know who wins a fight? Well, the thousands of fans of [HockeyFights.com](hockeyfights.com) vote on fights. You can vote that either player won the fight, or that the fight was a tie. I use that information as the input to the ELO rating algorithm.
+Hockey fights are pretty chaotic and don’t have official judges that declare a winner. How do we know who wins a fight? Well, the thousands of fans of [HockeyFights.com](http://www.hockeyfights.com) vote on fights. You can vote that either player won the fight, or that the fight was a tie. I use that information as the input to the ELO rating algorithm.
 
 Here is a quick introduction to ELO. For a more detailed look visit FiveThirtyEight.com. The core of the rating system is pretty simple. Every fighter starts with a baseline rating of 1200. If you win a fight, your rating goes up. If you lose a fight your rating goes down. To get a better understanding lets consider two fighters Ryan and Steve. If Ryan fights Steve and wins, Ryan’s ELO rating will increase and Steve’s  ELO will decrease after the fight. The size of the change is a combination of two factors. Factor 1, how convincing of a win was it; Factor 2, both fighters previous ELO rating.
 
@@ -55,7 +55,7 @@ This system combines the Eye Test of thousands of hockey fans with the statistic
 
 One note about the list, you need to fight to increase you rating. So although a guy like Chara might still be one of the toughest guys in the leauge, because he hasn't been fighting he doesn't make the list.
 
-Below is a chart of ELO over the 2016-17 season. Ryan Reaves is highlighted in Blue. Ryan started the season above average because of his record from previous seasons. Go to [HockeyFights.com](hockeyfights.com) to check out Reave's [2016-17 Fight Card](http://www.hockeyfights.com/players/1602/fightcard/reg2017). Steve Ott is highlighted in Red. He started the season below average then gradually fell to end up the third worst fighter in the league. 
+Below is a chart of ELO over the 2016-17 season. Ryan Reaves is highlighted in Blue. Ryan started the season above average because of his record from previous seasons. Go to [HockeyFights.com](http://www.hockeyfights.com) to check out Reave's [2016-17 Fight Card](http://www.hockeyfights.com/players/1602/fightcard/reg2017). Steve Ott is highlighted in Red. He started the season below average then gradually fell to end up the third worst fighter in the league. 
 
 ---
 
