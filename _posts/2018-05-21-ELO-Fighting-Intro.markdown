@@ -53,7 +53,7 @@ This system combines the Eye Test of thousands of hockey fans with the statistic
 
 ---
 
-One note about the list, you need to fight to increase you rating. So although a guy like Chara might still be one of the toughest guys in the leauge, because he hasn't been fighting he doesn't make the list.
+One note about the list, you need to fight to increase your rating. So although a guy like Chara might still be one of the toughest guys in the leauge, because he hasn't been fighting he doesn't make the list.
 
 Below is a chart of ELO over the 2016-17 season. Ryan Reaves is highlighted in Blue. Ryan started the season above average because of his record from previous seasons. Go to [HockeyFights.com](http://www.hockeyfights.com) to check out Reave's [2016-17 Fight Card](http://www.hockeyfights.com/players/1602/fightcard/reg2017). Steve Ott is highlighted in Red. He started the season below average then gradually fell to end up the third worst fighter in the league. 
 
