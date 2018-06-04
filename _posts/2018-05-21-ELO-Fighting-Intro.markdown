@@ -9,17 +9,17 @@ categories: jekyll update
 
 ---
 
-HockeyFights.com was kind enough to give me their data to create a system to rate hockey fighters. This system is a unique combination of the eye test and a statistic ranking system developed for Chess. The system is called ELO and it is widely used by [FiveThirtyEight.com](https://projects.fivethirtyeight.com/complete-history-of-the-nba/#bulls). 
+HockeyFights.com was kind enough to give me its data to create a system to rate hockey fighters. This system is a unique combination of the eye test and a statistic ranking system developed for Chess. The system is called ELO and it is widely used by [FiveThirtyEight.com](https://projects.fivethirtyeight.com/complete-history-of-the-nba/#bulls). 
 
 Hockey fights are pretty chaotic and don’t have official judges that declare a winner. How do we know who wins a fight? We aggregate the opinions of thousands of [HockeyFights.com](http://www.hockeyfights.com) fans that vote on fights. Fans can vote for who they think won the fight, or that the fight was a tie. I use this information as the input to the ELO rating algorithm.
 
-Here is a quick introduction to ELO. For a more detailed look visit [FiveThirtyEight.com](http://www.fivethirtyeight.com). The core of the rating system is pretty simple. Every fighter starts with a baseline rating of 1200. If you win a fight, your rating goes up. If you lose a fight your rating goes down. To get a better understanding lets consider two fighters Ryan and Steve. If Ryan fights Steve and wins, Ryan’s ELO rating will increase and Steve’s  ELO will decrease after the fight. The size of the change is a combination of two factors. Factor 1, how convincing of a win was it; Factor 2, both fighters previous ELO rating.
+Here is a quick introduction to ELO. For a more detailed look visit [FiveThirtyEight.com](http://www.fivethirtyeight.com). The core of the rating system is pretty simple. Every fighter starts with a baseline rating of 1200. If you win a fight, your rating goes up. If you lose a fight, your rating goes down. To get a better understanding, lets consider two fighters Ryan and Steve. If Ryan fights Steve and wins, Ryan’s ELO rating will increase and Steve’s  ELO will decrease after the fight. The size of the change is a combination of two factors. Factor 1, how convincing of a win was it; Factor 2, both fighters previous ELO rating.
 
 We can determine how convincing Ryan’s win was by looking at the percent of fans that believe Ryan won the fight. If 100% of the voters believe Ryan won, his ELO will increase dramatically. If only 51% of fans believe Ryan won, his ELO will only increase a little bit. Steve’s ELO rating always falls the same number of points that Ryan gained. If Ryan gains a lot of ELO points, Steve loses a lot. If Ryan only increases his ELO a little bit, then Steve’s ELO only goes down a little bit.
 
 The other factor determining the size of the change in ELO is the rating of the fighter before the fight. If Ryan is a machine that routinely takes on skilled fighters and wins, he will have one of the highest ELO ratings in the league: 1285. Steve on the other hand, loses almost every fight he’s dragged into. His ELO rating is a dismal 1146. So we can guess that Ryan would beat the crap out of Steve. So in this case, if Ryan were to beat up Steve, this would be expected. So Ryan ELO rating would only go up by a little bit. And Steve’s rating would go down an equally small amount. Now, if Steve were to win the fight, his ELO rating would skyrocket, and Ryans rating would plummet. 
 
-This system combines the Eye Test of thousands of hockey fans with the statistics of rating system trusted by FiveThirtyEight.  Here are the top 25 fighters from from 2014-2017 (end 2017 season):
+This system combines the eye test of thousands of hockey fans with the statistics of rating system trusted by FiveThirtyEight.  Here are the top 25 fighters from from 2014-2017 (end 2017 season):
 
 ---
 
