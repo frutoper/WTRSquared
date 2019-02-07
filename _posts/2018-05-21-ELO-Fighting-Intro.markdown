@@ -17,7 +17,7 @@ Here is a quick introduction to ELO. For a more detailed look visit [FiveThirtyE
 
 We can determine how convincing Ryan’s win was by looking at the percent of fans that believe Ryan won the fight. If 100% of the voters believe Ryan won, his ELO will increase dramatically. If only 51% of fans believe Ryan won, his ELO will only increase a little bit. Steve’s ELO rating always falls the same number of points that Ryan gained. If Ryan gains a lot of ELO points, Steve loses a lot. If Ryan only increases his ELO a little bit, then Steve’s ELO only goes down a little bit.
 
-The other factor determining the size of the change in ELO is the rating of the fighter before the fight. If Ryan is a machine that routinely takes on skilled fighters and wins, he will have one of the highest ELO ratings in the league: 1285. Steve on the other hand, loses almost every fight he’s dragged into. His ELO rating is a dismal 1146. So we can guess that Ryan would beat the crap out of Steve. So in this case, if Ryan were to beat up Steve, this would be expected. So Ryan ELO rating would only go up by a little bit. And Steve’s rating would go down an equally small amount. Now, if Steve were to win the fight, his ELO rating would skyrocket, and Ryans rating would plummet. 
+The other factor determining the size of the change in ELO is the rating of the fighter before the fight. If Ryan is a machine that routinely takes on skilled fighters and wins, he will have one of the highest ELO ratings in the league: 1285. Steve on the other hand, loses almost every fight he’s dragged into. His ELO rating is a dismal 1146. So we can guess that Ryan would beat the crap out of Steve. So in this case, if Ryan were to beat up Steve, this would be expected. Therefore Ryan's ELO rating would only go up by a little bit; Steve’s rating would go down an equally small amount. Now, if Steve were to win the fight, his ELO rating would skyrocket, and Ryans rating would plummet. 
 
 This system combines the eye test of thousands of hockey fans with the statistics of rating system trusted by FiveThirtyEight.  Here are the top 25 fighters from from 2014-2017 (end 2017 season):
 
@@ -66,7 +66,7 @@ Below is a chart of ELO over the 2016-17 season. Ryan Reaves is highlighted in B
 
 ---
 
-Finally, here is a lis of the Worst Fighters at the end of the 2017 season:
+Finally, here is a list of the Worst Fighters at the end of the 2017 season:
 
 ---
 
