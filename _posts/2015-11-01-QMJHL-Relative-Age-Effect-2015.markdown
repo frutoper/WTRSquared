@@ -58,7 +58,7 @@ d3.-tip.n:after {
 }
 </style>
 
-This is the third post about the Relative Age Effect ([RAE](https://en.wikipedia.org/wiki/Relative_age_effect)) covering the three Major Junior hockey leagues.  For more background on the subject review my previous posts on the [OHL] and [WHL].  Here the focus is the Quebec Major Junior Hockey League (QMJHL). 
+This is the third post about the Relative Age Effect ([RAE](https://en.wikipedia.org/wiki/Relative_age_effect)) covering the three Major Junior hockey leagues.  For more background on the subject review my previous posts on the [OHL](http://whatsthersquared.com/jekyll/update/2015/10/28/OHL-Relative-Age-Effect-2015.html) and [WHL](http://whatsthersquared.com/jekyll/update/2015/05/13/WHL-Relative-Age-Effect-2015.html).  Here the focus is the Quebec Major Junior Hockey League (QMJHL). 
 
 Data from the QMJHL draft in June 2015 once again reveals a striking pattern.  Players born early in the year tend to be drafted more often than players born toward the end of the year.  If the month a player was born had no effect on the likelihood that they were drafted than we would expect each month to have around 15 or 16 players drafted.  The first five months of the year each have more than 16 players drafted.  The last 5 months all have less than 10 players drafted.  Mouse over any month to see the total.
 
